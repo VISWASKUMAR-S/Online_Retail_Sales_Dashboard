@@ -18,7 +18,7 @@ This project focuses on **Tata's Online Retail Store** and aims to provide insig
 
 ![Image2](assets/Screenshot%20(167).png)
 
-![Image3](assets/Scrrenshot%20(168).png)
+![Image3](assets/Screenshot%20(168).png)
 
 
 
